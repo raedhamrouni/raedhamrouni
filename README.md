@@ -165,36 +165,6 @@ class RaedHamrouni:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamrouniraed07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&rank_icon=github" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamrouniraed07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamrouniraed07&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamrouniraed07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-## 📬 Let's Build Something Together
-
-I'm open to **AI engineering roles**, **LLM/agentic projects**, **MLOps consulting**, and **innovative collaborations** at the intersection of intelligence and real-world product engineering.
-
-<div align="center">
-
-**📧 raed.hamrouni@medinfotec.com** &nbsp;|&nbsp; **🔗 [LinkedIn](https://www.linkedin.com/in/raed-med-amin-hamrouni)** &nbsp;|&nbsp; **💻 [GitHub](https://github.com/raedhamrouni)**
-
-<img src="https://komarev.com/ghpvc/?username=hamrouniraed07&style=for-the-badge&color=2D9EF7" alt="Profile Views"/>
-
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
